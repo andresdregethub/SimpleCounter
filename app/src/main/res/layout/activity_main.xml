@@ -5,7 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/YELLOW"
+    android:background="@drawable/yellow"
     android:alpha=".7"
     android:rotationX="0"
     tools:context=".MainActivity">
